@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "id": "my-spec-demo1",
+      "type": "spec",
+      "name": "java + spring boot",
+      "description": "一个测试模板1",
+      "path": "specs/my-spec-demo1",
+      "tags": [
+        "java",
+        "spring boot"
+      ]
+    },    {
+      "id": "my-spec-demo2",
+      "type": "spec",
+      "name": "typescript + React",
+      "description": "一个测试模板2",
+      "path": "my-spec-demo2",
+      "tags": [
+        "typescript",
+        "react"
+      ]
+    }
+  ]
+}
