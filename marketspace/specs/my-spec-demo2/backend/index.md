@@ -1,12 +1,12 @@
-# Frontend Development Guidelines
+# Backend Development Guidelines
 
-> Best practices for frontend development in this project.
+> Best practices for backend development in this project.
 
 ---
 
 ## Overview
 
-This directory contains guidelines for frontend development. Fill in each file with your project's specific conventions.
+This directory contains guidelines for backend development. Fill in each file with your project's specific conventions.
 
 ---
 
@@ -15,11 +15,10 @@ This directory contains guidelines for frontend development. Fill in each file w
 | Guide | Description | Status |
 |-------|-------------|--------|
 | [Directory Structure](./directory-structure.md) | Module organization and file layout | To fill |
-| [Component Guidelines](./components) | Component patterns, props, composition | To fill |
-| [Hook Guidelines](./hooks) | Custom hooks, data fetching patterns | To fill |
-| [State Management](./state-management.md) | Local state, global state, server state | To fill |
+| [Database Guidelines](./database-guidelines.md) | ORM patterns, queries, migrations | To fill |
+| [Error Handling](./error-handling.md) | Error types, handling strategies | To fill |
 | [Quality Guidelines](./quality-guidelines.md) | Code standards, forbidden patterns | To fill |
-| [Type Safety](./type-safety.md) | Type patterns, validation | To fill |
+| [Logging Guidelines](./logging-guidelines.md) | Structured logging, log levels | To fill |
 
 ---
 

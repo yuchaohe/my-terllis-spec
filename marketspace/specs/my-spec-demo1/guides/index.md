@@ -21,8 +21,8 @@ These guides help you **ask the right questions before coding**.
 
 | Guide | Purpose | When to Use |
 |-------|---------|-------------|
-| [Code Reuse Thinking Guide](./code-reuse-thinking-guide.md) | Identify patterns and reduce duplication | When you notice repeated patterns |
-| [Cross-Layer Thinking Guide](./cross-layer-thinking-guide.md) | Think through data flow across layers | Features spanning multiple layers |
+| [Code Reuse Thinking Guide](code-reuse-thinking-guide.md) | Identify patterns and reduce duplication | When you notice repeated patterns |
+| [Cross-Layer Thinking Guide](cross-layer-thinking-guide.md) | Think through data flow across layers | Features spanning multiple layers |
 
 ---
 
@@ -37,7 +37,7 @@ These guides help you **ask the right questions before coding**.
 - [ ] You are adding an event kind, JSONL record, RPC payload, or config field
 - [ ] UI / command code starts casting raw payload fields directly
 
-→ Read [Cross-Layer Thinking Guide](./cross-layer-thinking-guide.md)
+→ Read [Cross-Layer Thinking Guide](cross-layer-thinking-guide.md)
 
 ### When to Think About Code Reuse
 
@@ -49,7 +49,7 @@ These guides help you **ask the right questions before coding**.
 - [ ] Two files read the same untyped payload field with local casts
 - [ ] Multiple branches update the same derived state from `kind` / `action`
 
-→ Read [Code Reuse Thinking Guide](./code-reuse-thinking-guide.md)
+→ Read [Code Reuse Thinking Guide](code-reuse-thinking-guide.md)
 
 ### When Verifying AI Cross-Review Results
 
