@@ -36,3 +36,5 @@ The goal is to help AI assistants and new team members understand how YOUR proje
 ---
 
 **Language**: All documentation should be written in **English**.
+**Language**: All documentation should be written in **CHINASES**.
+
