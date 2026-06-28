@@ -6,7 +6,7 @@
       "type": "spec",
       "name": "java + spring boot",
       "description": "一个测试模板1",
-      "path": "marketplace/specs/my-spec-demo1",
+      "path": "specs/my-spec-demo1",
       "tags": [
         "java",
         "spring boot"
@@ -17,7 +17,7 @@
       "type": "spec",
       "name": "typescript + React",
       "description": "一个测试模板2",
-      "path": "marketplace/specs/my-spec-demo2",
+      "path": "specs/my-spec-demo2",
       "tags": [
         "typescript",
         "react"
