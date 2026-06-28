@@ -22,6 +22,17 @@
         "typescript",
         "react"
       ]
+    },
+    {
+      "id": "my-auth",
+      "type": "spec",
+      "name": "git",
+      "description": "git权限控制",
+      "path": "marketplace/specs/auth",
+      "tags": [
+        "git",
+        "react"
+      ]
     }
   ]
 }
